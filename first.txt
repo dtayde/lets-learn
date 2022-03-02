@@ -1,0 +1,24 @@
+
+ 1. git config --global user.name Dhanraj
+ 2. git config --global user.gmail dtayde4@gmail.com
+ 3. code . ( for visual studio code)
+ 4. git init (  for initiallized any folder)
+ 5. ls -lart (to show all hiden folder)
+ 6. git status
+ 7.  git add filename(to move file in staging area )
+     git add -A (to add ALL FILES  IN STAGING AREA)
+
+ 8.  git commit (to start tracking of project and save )--->press"esc-:wq
+     git commit -m "Added more html(comment)"(to commit i.e ready to take screenshot)
+
+ 9. git touch filename (to create new empty file)
+ 10. git add -A (to add ALL FILES  IN STAGING AREA)
+ 11. git commit -m "Added more htmls"(to commit i.e ready to take screenshot)
+ 12.git checkout filename  (backup or match with last working directory )
+    git checkout -f ( for all file recover)
+
+13.git log ( to see all your commit)
+   git log -p -4(no. of commit you want to see)---> press "q" to quit
+ 14. git diff
+     git diff --staged
+15. git commit -a -m ( to direct commit  without adding to stag area)
