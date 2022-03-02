@@ -25,4 +25,3 @@
 16. ls (to list all files)
 17. git rm --cached filename (to delete from staging area only )
     git rm filename (to delete permenantly)
-    
