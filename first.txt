@@ -23,3 +23,6 @@
      git diff --staged
 15. git commit -a -m ( to direct commit  without adding to stag area)
 16. ls (to list all files)
+17. git rm --cached filename (to delete from staging area only )
+    git rm filename (to delete permenantly)
+    
