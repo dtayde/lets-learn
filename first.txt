@@ -25,3 +25,9 @@
 16. ls (to list all files)
 17. git rm --cached filename (to delete from staging area only )
     git rm filename (to delete permenantly)
+18 git status -s( short status)
+
+Branch (seperate copy)
+19.git branch name1
+   git branch (cmd to check u r in which branch)
+20.git checkout branchname (to change the branch)
